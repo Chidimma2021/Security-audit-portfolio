@@ -1,2 +1,13 @@
-# Security-audit-portfolio
-Google Cybersecurity Certificate Project: Security Audit and Compliance Checklist for Butium Toys
+# Security Audit & Compliance Checklist – Botium Toys
+
+This portfolio activity is part of the **Google Cybersecurity Certificate** program.
+
+## Contents
+- Control Assessment Checklist
+- Security Recommendations
+- GDPR & PCI DSS Compliance Review
+- Compliance Recommendations
+
+## Summary
+A detailed security audit and compliance checklist conducted for a fictional company, Botium Toys. It identifies gaps in key controls like MFA, encryption, access control, and more. Recommendations are provided to align with **GDPR** and **PCI DSS** best practices.
+
