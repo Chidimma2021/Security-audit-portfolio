@@ -1,6 +1,6 @@
 # Security Audit & Compliance Checklist – Botium Toys
 
-This portfolio activity is part of the **Google Cybersecurity Certificate** program.
+This portfolio activity is part of the course 2 **Google Cybersecurity Certificate** program.
 
 ## Contents
 - Control Assessment Checklist
